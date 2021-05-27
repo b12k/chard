@@ -1,0 +1,1 @@
+(()=>{"use strict";if(typeof __nccwpck_require__!=="undefined")__nccwpck_require__.ab=__dirname+"/";var e={};var r=process.argv.slice(2)[0];switch(r){case"deployed":break;case"pending":break;case"ready":break;case"destroyed":break;case undefined:throw new Error("Command not provided");default:throw new Error('Command "'+r+'" not supported')}module.exports=e})();
